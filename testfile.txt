@@ -1,1 +1,2 @@
 This is the first file in learning project
+adding second line from local git
